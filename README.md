@@ -26,7 +26,7 @@ Install Python 3 and clone this repo from git.
 pip install -r requirments.txt
 
 ## RUN
-Run ./addressbook.py to start the server 
+Run ./datamodel.py to start the server 
 
 ## Sample JSON Input
 
