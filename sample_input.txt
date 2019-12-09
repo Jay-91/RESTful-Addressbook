@@ -1,0 +1,15 @@
+{
+"name":"Marie",
+"age":33,
+"organisation":[
+  {
+    "name":"Amazon"
+  },
+  {
+    "name":"Google pvt"
+  }
+],
+"profile":{
+"address":"Madrid"
+}
+}
